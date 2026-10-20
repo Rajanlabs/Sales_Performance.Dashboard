@@ -54,8 +54,6 @@ The dashboard transforms raw sales data into meaningful business insights using 
 
 ## 📷 Dashboard Preview
 
-Add your dashboard screenshot to this repository and name it `dashboard.png`. Then the preview below will display automatically.
-
 ![Global Sales Dashboard](dashboard.png)
 
 ## 🚀 How to Use
